@@ -4,6 +4,13 @@
 
 This extension was created as a **one-day weekend project** to explore and understand the raw prompting technique with Ollama for Fill-in-the-Middle (FIM) code completion.
 
+## Demo
+
+![AirGap Demo](demo.mp4)
+
+*(If the video doesn't play automatically, you can watch it here: [demo.mp4](demo.mp4))*
+
+
 ## Features
 
 - **Local Inline Completions**: Automatically suggests code inline as you type, powered by your local Ollama setup.
